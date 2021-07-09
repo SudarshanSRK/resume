@@ -29,5 +29,5 @@
 ### **Hobbies** <br>
 -Reading books <br>
 -playing games <br>
-- Watching movies <br>
+-Watching movies 
 
